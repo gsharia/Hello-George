@@ -1,2 +1,3 @@
 # Hello-George
-Test repository
+This is a test repository
+
